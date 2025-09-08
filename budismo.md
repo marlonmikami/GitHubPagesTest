@@ -1,6 +1,6 @@
 # Budismo
 
-Essenciais:
+## Essenciais:
 
-* [As Quatro Nobre Verdades](quatro_nobre_verdades.md)
-* [O Nobre Caminho Óctuplo](caminho_octuplo.md)
+* [As Quatro Nobre Verdades](/budismo/quatro_nobre_verdades.md)
+* [O Nobre Caminho Óctuplo](/budismo/caminho_octuplo.md)
